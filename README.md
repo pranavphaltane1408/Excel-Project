@@ -1,5 +1,4 @@
 # Hotal Bookings vs Cancellation Analysis
-# Link --
 # Description:
 This is a hotel booking analytics dashboard showing key metrics related to bookings and cancellations across city and resort hotels. 
 The dashboard includes visualizations of guest types, room status, revenue by hotel type, and booking/cancellation trends over time.
@@ -54,5 +53,6 @@ patterns indicate a need for dynamic pricing and capacity management strategies 
 		Consider special promotions during low seasons to maintain occupancy
 
 # Snapshot --
+![Screenshot (28)](https://github.com/user-attachments/assets/ecf61e33-7b62-44e6-96c8-36bad457cacb)
 
 
