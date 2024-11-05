@@ -53,3 +53,4 @@ patterns indicate a need for dynamic pricing and capacity management strategies 
 		Consider special promotions during low seasons to maintain occupancy
 
 # snapshot
+![Screenshot (29)](https://github.com/user-attachments/assets/a93edaf3-c088-487c-8496-28fc5bbffd1b)
