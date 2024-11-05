@@ -51,3 +51,5 @@ patterns indicate a need for dynamic pricing and capacity management strategies 
 		Create specialized offerings for couples since they're the dominant segment
 		Develop more family-friendly packages to grow that segment
 		Consider special promotions during low seasons to maintain occupancy
+
+# snapshot
