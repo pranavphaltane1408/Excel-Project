@@ -20,5 +20,7 @@ key metrics and trends across different customer segments, product lines, and ti
 analysis can help the company make informed decisions to optimize its operations, target marketing efforts, and improve overall profitability.
 
 # Report Snapshot --
-![2024-11-08](https://github.com/user-attachments/assets/f3560c2a-d76b-4bc2-b23b-fc5275d5eb88)
+
+![Screenshot 2024-12-18 104648](https://github.com/user-attachments/assets/f63e9738-2671-447a-93ae-6e0a1cd0681b)
+
 
